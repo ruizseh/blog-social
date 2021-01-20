@@ -1,0 +1,29 @@
+.fs-16
+{
+    font-size: 16pt;
+    color: white;
+    
+        
+}
+
+.style-tx-navbar:hover{
+    
+    color: rgb(98, 168, 248);    
+}
+
+.style-tx-danger:hover{
+    
+    color: rgb(98, 168, 248);    
+}
+
+a{
+    cursor: pointer;
+}
+
+.fs-12
+{
+    font-size: 12pt;
+    color: black;
+    font-style: normal;
+        
+}
